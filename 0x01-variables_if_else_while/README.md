@@ -16,3 +16,4 @@ Write a program that prints all single digit numbers of base 10 starting from 0,
 Write a program that prints all possible different combinations of two digits
 Write a program that prints all possible different combinations of three digits
 Write a program that prints all possible different combinations of three digits
+Write a program that prints all possible different combinations of three digits
