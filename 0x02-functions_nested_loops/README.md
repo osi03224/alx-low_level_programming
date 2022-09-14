@@ -20,3 +20,4 @@ Write a function that adds two integers and returns the result
 Write a function that prints all natural numbers from n to 98, followed by a new line
 Write a function that prints all natural numbers from n to 98, followed by a new line
 Write a function that prints all natural numbers from n to 98, followed by a new line
+Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line
