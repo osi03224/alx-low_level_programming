@@ -11,3 +11,4 @@ Write a function that reverses a string
 Write a function that prints half of a string, followed by a new line
 Write a function that prints half of a string, followed by a new line
 Write a function that convert a string to an integer
+Write a function that prints half of a string, followed by a new line
