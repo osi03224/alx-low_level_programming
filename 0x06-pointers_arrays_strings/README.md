@@ -5,3 +5,4 @@ Add one line to this code, so that the program prints a[2] = 98, followed by a n
 Write a function that changes all lowercase letters of a string to uppercase
 Write a function that reverses the content of an array of integers
 Write a function that reverses the content of an array of integers
+Write a function that compares two strings
