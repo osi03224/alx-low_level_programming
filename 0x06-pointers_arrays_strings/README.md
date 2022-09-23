@@ -11,3 +11,4 @@ Write a function that concatenates two strings
 Write a function that concatenates two strings
 Write a function that prints an integer
 Write a function that prints a buffer
+Write a function that adds two numbers
