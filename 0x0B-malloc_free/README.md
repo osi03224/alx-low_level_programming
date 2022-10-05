@@ -7,3 +7,4 @@ Write a function that concatenates all the arguments of your program
 Write a function that splits a string into words
 Write a function that concatenates two strings
 Write a function that concatenates two strings
+Write a function that concatenates two strings
