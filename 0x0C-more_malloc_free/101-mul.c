@@ -108,8 +108,10 @@ _putchar(E[i]);
 }
 exit(98);
 }
-for (len1 = 0; argv[1][len1]; len1++);
-for (len2 = 0; argv[2][len2]; len2++);
+for (len1 = 0; argv[1][len1]; len1++)
+;
+for (len2 = 0; argv[2][len2]; len2++)
+;
 lenres = len1 + len2;
 tabres = _calloc(lenres, sizeof(int));
 if (tabres == NULL)
